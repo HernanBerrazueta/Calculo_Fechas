@@ -1,4 +1,7 @@
-# Calculo-fechas
+# Cálculo-fechas
+
+### Link de Heroku para ver el deploy
+https://calculo-fechas.herokuapp.com/
 
 Este proyecto fue realizado para el alquiler de equipos en la UITEC. Se verifica si los estudiantes ya han entregado los equipos, de lo contrario se verifica cuántos días de retraso en la entrega tienen y cada día tendrá 5 dólares de multa.
 
@@ -18,8 +21,6 @@ npm run serve
 ```
 npm run build
 ```
-### Link de Heroku para ver el deploy
-https://calculo-fechas.herokuapp.com/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
