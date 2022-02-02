@@ -1,4 +1,4 @@
-# Cálculo-fechas
+# Cálculo de fechas para UITEC
 
 ### Link de Heroku para ver el deploy
 https://calculo-fechas.herokuapp.com/
