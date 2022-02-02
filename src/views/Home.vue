@@ -105,7 +105,7 @@ export default {
         {
           nombre: "Luis Sánchez",
           equipo: "Computadora",
-          estado: "Entregado",
+          estado: "Pendiente",
           fechaAdquisicion: "02/10/2021",
           fechaMaxima: "01/11/2022",
           fechaDevuelto: "",
