@@ -1,8 +1,8 @@
-# calculo-fechas
+# Calculo-fechas
 
 Este proyecto fue realizado para el alquiler de equipos en la UITEC. Se verifica si los estudiantes ya han entregado los equipos, de lo contrario se verifica cuántos días de retraso en la entrega tienen y cada día tendrá 5 dólares de multa.
 
-El proyecto se lo realizó en VueJS y la función del cálculo en JavaScript.
+El proyecto se lo realizó en Vue.js y la función del cálculo en JavaScript.
 
 ## Project setup
 ```
@@ -18,6 +18,8 @@ npm run serve
 ```
 npm run build
 ```
+### Link de Heroku para ver el deploy
+https://calculo-fechas.herokuapp.com/![image](https://user-images.githubusercontent.com/81847132/152097441-fd407245-b63b-4da8-b143-6239db348047.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
