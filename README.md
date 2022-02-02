@@ -19,7 +19,7 @@ npm run serve
 npm run build
 ```
 ### Link de Heroku para ver el deploy
-https://calculo-fechas.herokuapp.com/![image](https://user-images.githubusercontent.com/81847132/152097441-fd407245-b63b-4da8-b143-6239db348047.png)
+https://calculo-fechas.herokuapp.com/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
